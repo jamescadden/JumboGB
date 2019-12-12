@@ -81,6 +81,15 @@ margin-right: 0px!important;
           transform: translateZ(0);
   will-change: transform;
 }
+
+.textJumbo{
+  top: -36px;
+  position: absolute;
+  left: 684px;
+  width: 500px;
+  height: 350px;
+}
+
 /*--- Prevent WayPoints from Browser Window Scrolling On Mobile --*/
 /* Devices under 768px (md) */
 @media (max-width: 767px) {
